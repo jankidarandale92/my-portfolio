@@ -17,3 +17,5 @@ function typeName() {
 }
 
 window.onload = typeName;
+
+
